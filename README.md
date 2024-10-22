@@ -31,7 +31,7 @@
 
 二、所用技术
 1. 后端技术
-Python：使用 Flask 或 Django 框架构建后端服务。
+Python：使用 Django 框架构建后端服务。
 Flask：轻量级框架，适合小型项目。
 2. 前端技术
 Vue.js：现代前端框架，用于构建用户界面。
@@ -40,7 +40,8 @@ MySQL：关系型数据库，用于存储系统数据。
 
 
 三、环境介绍
-IDEA：集成开发环境，支持 Python 和 Vue.js 开发。
 PyCharm：专门用于 Python 开发的 IDE，支持 Flask 和 Django 框架。
+VSCode：轻量级且功能强大，支持多种语言和技术，包括 Python 和 Vue.js。
+DBeaver：通用的数据库管理和开发工具，支持多种数据库系统，提供强大的 SQL 编辑和执行功能。
 
 四、实现截图
